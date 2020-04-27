@@ -12,3 +12,6 @@ echo 88
 echo 99
 echo 100
 echo 101
+echo 302
+c='num of cpu' cat /proc/cpuinfo | grep processor | wc -l
+c='python home dir' echo "home = str(Path.home())" | xclip -sel c # https://stackoverflow.com/questions/4028904/how-to-get-the-home-directory-in-python 
