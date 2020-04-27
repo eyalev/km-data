@@ -1,0 +1,14 @@
+echo 11
+echo 22
+echo 33
+echo 44
+echo 55
+sudo apt install package
+docker version
+bash --version | head -1 | cut -d ' ' -f 4
+echo 66
+echo 77
+echo 88
+echo 99
+echo 100
+echo 101
